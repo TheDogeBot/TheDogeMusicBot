@@ -1,10 +1,9 @@
 {
-  "name": "DaisyXMusic",
+  "name": "DogeTheMusicBot",
   "logo": "https://telegra.ph/file/36ff1b571aa11df5812de.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/TeamDaisyX/DaisyXMusic",
-  "stack": "heroku-20",
+  "repository": "https://github.com/TeamofDaisyX/DogeTheMusicBot",
   "buildpacks": [
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
@@ -39,7 +38,7 @@
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
       "required": false,
-      "value": "DaisyXMusic v5"
+      "value": "DogeTheMusicBot v5"
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
