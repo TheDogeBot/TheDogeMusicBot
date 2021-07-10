@@ -5,7 +5,7 @@
 ### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://tlgur.com/d/8l6oxdQg">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -26,7 +26,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Technical-Hunter/DogeTheMusicBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheDogeBot/DogeTheMusicBot)
 
 Get pyrogram (p)  `SESSION` from here:
 
