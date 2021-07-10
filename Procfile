@@ -1,1 +1,1 @@
-worker: python3 -m TheDogeMusicBot
+worker: python3 -m DogeTheMusicBot
